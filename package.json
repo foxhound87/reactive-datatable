@@ -1,0 +1,28 @@
+{
+  "name": "reactive-datatable",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "",
+  "author": "foxhound87 <claudio.savino@me.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "feathers-hooks-common": "^4.20.7",
+    "lodash": "^4.17.11",
+    "mobx": "^5.10.1",
+    "mobx-react": "^6.1.1",
+    "mobx-react-form": "^2.0.2",
+    "mobx-state-tree": "^3.14.0",
+    "mobx-utils": "^5.4.1",
+    "moment": "^2.24.0",
+    "nprogress": "^0.2.0",
+    "react": "^16.8.6"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "copy-to-clipboard": "^3.2.0",
+    "react-dock": "^0.2.4",
+    "react-pagify": "^2.4.0",
+    "react-popup": "^0.10.0",
+    "react-sidebar": "^3.0.2"
+  }
+}
