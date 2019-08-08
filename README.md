@@ -1,6 +1,6 @@
 # Reactive Datatable
 
-# Main Techs
+## Main Techs
 
 * [Feathers](https://github.com/feathersjs/feathers)
 * [React](https://github.com/facebook/react/)
