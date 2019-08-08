@@ -32,7 +32,7 @@
 
 ## Documentation
 
-1. [Project Setup](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/1 - Project Setup.md)
+1. [Project Setup](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/1-Project-Setup.md)
 2. [Setup Models, Table Schemas, Stores](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/2 - Setup Models, Table Schemas, Stores.md)
 3. [Handle Feathers Server Params](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/3 - Handle Feathers Server Params.md)
 4. [Registering Stores](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/4 - Registering Stores.md)
