@@ -44,3 +44,10 @@
 9. [Actions, Handlers, Views](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/9--actions-handlers-views.md)
 10. [Service API](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/10--service-api.md)
 11. [Theming](https://github.com/foxhound87/reactive-datatable/tree/master/DOCS/11--theming.md)
+
+### Example Project & Demo
+
+You can find a demo video and a project setup using RFX-Next or Create-React-App and all the code showed in this documentation with examples of Models, Table Schema, Stores and also a Feathers (dummy) Server with Hooks in the following repository:
+
+### [Demo Code](https://github.com/foxhound87/reactive-datatable-demo)  &bull; [Demo Video](https://mega.nz/#!shlixCYT!JmSI4L7f86rGIpECLs4B3Bzn5hwLrcYgCwWo05YmCIU)
+
