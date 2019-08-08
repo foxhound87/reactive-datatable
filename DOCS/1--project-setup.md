@@ -96,9 +96,9 @@ In your main css file import the following libs and files:
 
 ### Example Project
 
-You can find a project setup using RFX-Next with example Models, Table Schema, Stores, Feathers Server with Hooks and all the code showed in this documentation in the following repository:
+You can find a project setup using RFX-Next or Create-React-App and all the code showed in this documentation with examples of Models, Table Schema, Stores and also a Feathers (dummy) Server with Hooks in the following repository:
 
-#### [Reactive Datatable Demo]()
+#### [Reactive Datatable Demo](https://github.com/foxhound87/reactive-datatable-demo)
 
 ### Additional suggestions
 
