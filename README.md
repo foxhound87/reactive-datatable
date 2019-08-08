@@ -5,7 +5,8 @@
 * [Feathers](https://github.com/feathersjs/feathers)
 * [React](https://github.com/facebook/react/)
 * [MobX](https://github.com/mobxjs/mobx)
-* [MobxReactForm](https://github.com/foxhound87/mobx-react-form)
+* [Mobx-State-Tree](https://github.com/mobxjs/mobx-state-tree)
+* [Mobx-React-Form](https://github.com/foxhound87/mobx-react-form)
 
 ## Features
 
