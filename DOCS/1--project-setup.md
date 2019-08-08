@@ -1,6 +1,6 @@
 ### Initialize the Project
 
-Clone [RFX-Next](https://github.com/foxhound87/rfx-next), or install Next.js or another environment with support to EcmaScript Decorators.
+Clone [RFX-Next](https://github.com/foxhound87/rfx-next), or install Next.js or another React environment.
 
 RFX-Next will provide some of the implementations below OOTB with decorators and feathers app auth.
 
